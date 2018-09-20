@@ -23,4 +23,4 @@ country="India"
 ```
 
 ## Output:
-<img src="screenshot.png" />
+<img src="screenshot.png" width=50%/>
